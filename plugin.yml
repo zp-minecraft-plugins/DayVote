@@ -1,0 +1,7 @@
+name: DayVote
+main: pro.zackpollard.dayvote.DayVote
+version: "0.4"
+commands:
+    dv:
+        description: DayVote
+        usage: Use this command to vote for day or night when the vote comes around.

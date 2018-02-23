@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DayVote:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/DayVote_jar</output-path>
+    <root id="archive" name="DayVote.jar">
+      <element id="module-output" name="DayVote" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
